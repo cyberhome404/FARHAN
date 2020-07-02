@@ -21,7 +21,7 @@ check = 0
 result = 0
 def masuk():
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
-        print("Bingung ? TANYA SAYA WKWKWK")
+        print("Bingung ? TANYA AKU!!!")
         try:
                 cek = open("cookies").read()
         except FileNotFoundError:
@@ -158,7 +158,7 @@ if __name__ == '__main__':
                 print('\033[1;37m/____\___|\__|\__\__,_|_| |_| |_|\__,_|___/')
                 print('\033[1;34m=========================')
                 print('\033[1;33mAuthor: \033[1;36m FARHAN OFFICIAL')
-                print('\033[1;33mBY: \033[1;36mFARHAN DEVA PRATAMA')
+                print('\033[1;33mNOTE: \033[1;36mANDA HARUS SUKSESS.')
                 print('\033[1;34m=========================')
                 print('\033[1;31m[\033[1;33m1\033[1;31m] \033[1;36mDaftar Teman')
                 print('\033[1;31m[\033[1;33m2\033[1;31m] \033[1;36mDari Like ')
