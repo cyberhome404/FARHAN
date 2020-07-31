@@ -154,7 +154,7 @@ if __name__ == '__main__':
              
                 print('\033[1;34m=========================')
                 print('\033[1;33mAuthor: \033[1;36m FARHAN OFFICIAL')
-                print('\033[1;33mNOTE: \033[1;36mANDA HARUS SUKSESS.')
+                print('\033[1;33mNOTE: \033[1;36mDont be a tiger cub.')
                 print('\033[1;34m=========================')
                 print('\033[1;31m[\033[1;33m1\033[1;31m] \033[1;36mDaftar Teman')
                 print('\033[1;31m[\033[1;33m2\033[1;31m] \033[1;36mDari Like ')
